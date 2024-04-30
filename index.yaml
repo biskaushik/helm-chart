@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cyperfchart:
+  - apiVersion: v2
+    appVersion: 1.0.3.656
+    created: "2024-04-30T17:21:35.281619+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 967c273c8985d4d87035ef58d933ff176af0fbb32fa01ae5f39df6535568a87d
+    name: cyperfchart
+    type: application
+    urls:
+    - https://biskaushik.github.io/helm-chart/cyperfchart-0.3.656.tgz
+    version: 0.3.656
+generated: "2024-04-30T17:21:35.281031+05:30"
